@@ -1,0 +1,41 @@
+{
+  "health_only": [
+    "HighBP",
+    "HighChol",
+    "CholCheck",
+    "BMI",
+    "Stroke",
+    "HeartDiseaseorAttack",
+    "GenHlth"
+  ],
+  "lifestyle_only": [
+    "Smoker",
+    "PhysActivity",
+    "Fruits",
+    "Veggies",
+    "HvyAlcoholConsump"
+  ],
+  "combined": [
+    "HighBP",
+    "HighChol",
+    "CholCheck",
+    "BMI",
+    "Stroke",
+    "HeartDiseaseorAttack",
+    "GenHlth",
+    "Smoker",
+    "PhysActivity",
+    "Fruits",
+    "Veggies",
+    "HvyAlcoholConsump",
+    "Sex",
+    "Age",
+    "Education",
+    "Income",
+    "AnyHealthcare",
+    "NoDocbcCost",
+    "MentHlth",
+    "PhysHlth",
+    "DiffWalk"
+  ]
+}
